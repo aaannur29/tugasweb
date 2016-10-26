@@ -1,0 +1,29 @@
+body	{margin: 0;}
+header 	{background: #292929}
+
+header nav	{display: flex;justify-content: center;}
+header nav ul	{list-style: none;margin: 0;padding: 0;}
+header nav a	{color: #fff;text-decoration: none;padding: 10px 9px;display: inline-block;}
+header nav ul li {float: left;}
+header img	{width: 100%;height: 400px}
+.1			{width: 80;	height: 70;}
+.clear	{clear: both;}
+#content {width: 90%;margin: 0 auto;}
+#content .banner {width: 30%; float: left;}
+*{margin: 0px auto;}
+#container {position: relative;}	
+#header	{background: #0cf;
+		padding: 10px;}
+#content 	{padding: 100px; padding-bottom: 500px;}
+#footer{height: 150px;
+		line-height:30px;
+		background: #333;
+		color: #fff;
+	display: table-cell;
+		text-align: left;
+		border: 120px solid rgba(0,0,0,.2);}
+.bawah	{height: 40px;
+		line-height:40px;
+		background: #333;
+		color: #fff;}
+
